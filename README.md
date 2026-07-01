@@ -9,7 +9,7 @@ Na operação de comércio exterior e suprimentos, o registro da Nota Fiscal (NF
 * Garantir que as equipes de importação/logística exijam as documentações necessárias de forma proativa.
 * Prover dados limpos e modelados para consumo dinâmico na camada de Business Intelligence (BI).
 
-## 📐 Arquitetura do Fluxo de Dados (Mermaid)
+## 📐 Arquitetura do Fluxo de Dados
 
 ```mermaid
 graph LR
